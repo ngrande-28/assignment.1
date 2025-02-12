@@ -11,7 +11,7 @@
 <body>
     <header>
         <h1>The Great Life of Jimi Hendrix
-            <p>Often referred to as the greatest guitarist of all-time, Jimi Hendrix was born in Seattle, Washington. Hendrix's ability to manipulate the guitar to create sounds that no one had ever heard before earns him the credibility that he has today.</p>
+            <p>Referred to as the greatest guitarist of all-time, Jimi Hendrix was born in Seattle, Washington. Hendrix's ability to manipulate the guitar to create sounds that no one had ever heard before earns him the credibility that he has today.</p>
         </h1>
     </header>
     <main>
